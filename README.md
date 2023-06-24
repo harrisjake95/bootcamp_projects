@@ -1,4 +1,4 @@
-# bootcamp_projects
+# data science bootcamp projects
 
 Data Science Hyperion Dev
 
