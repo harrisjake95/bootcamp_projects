@@ -1,4 +1,4 @@
-# Beginner Control Structures
+# Beginner Control Structures - While Loops
 
 + Write a program that always asks the user to enter a number.
   
